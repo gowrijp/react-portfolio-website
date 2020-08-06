@@ -39,7 +39,7 @@ App --- Portfolio --- SideNav
 > curly braces represents something like a variable or a reference to a function
 > this.state only used inside the constructor otherwise we have to use this.setState
 
-CHECK HOW TO DEPLY REACT APP 
-(u have to change package.json : add "homepage": "your-webpage-url"
-                   
+DEPLOYING A CREATE-REACT-APP WEBPAGE
+Refer to this video for thr steps to deploy ur page!                    
 ```
+https://www.youtube.com/watch?v=ctLFWAanxcI
