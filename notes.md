@@ -40,6 +40,6 @@ App --- Portfolio --- SideNav
 > this.state only used inside the constructor otherwise we have to use this.setState
 
 DEPLOYING A CREATE-REACT-APP WEBPAGE
-Refer to this video for thr steps to deploy ur page!                    
+Refer to this video for the steps to deploy the create-react-app page!                    
 ```
 https://www.youtube.com/watch?v=ctLFWAanxcI
