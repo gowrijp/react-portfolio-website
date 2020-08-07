@@ -42,4 +42,5 @@ App --- Portfolio --- SideNav
 DEPLOYING A CREATE-REACT-APP WEBPAGE
 Refer to this video for the steps to deploy the create-react-app page!                    
 ```
-https://www.youtube.com/watch?v=ctLFWAanxcI
+https://www.youtube.com/watch?v=ctLFWAanxcI  
+Finally Deployed ^_^ https://gowrijp.github.io/react-portfolio-website/
